@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: rgba(0, 0, 0, .87);
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.8;
+}
+
+.topbar{
+    position: fixed;
+    background: #FFF;
+}
+
+.topbar nav{
+    float: left;
+}
